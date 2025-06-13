@@ -105,6 +105,8 @@
 
 # end  # module
 
+# Source for Rice Algorithm: https://michaeldipperstein.github.io/rice.html
+
 module RiceCompression
 
 export rice_encode, rice_decode
